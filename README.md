@@ -34,10 +34,10 @@ The required Python libraries are:
 ### Install dependencies locally via pip
 
 ```bash
-pip ins![2f5262f7-801d-4293-824c-13c29fb97fed](https://github.com/user-attachments/assets/ce26b391-569b-4acf-8aab-0a98caa91da8)
-tall pandas numpy matplotlib scikit-learn seaborn
-Fake News
+pip install pandas numpy matplotlib scikit-learn seaborn
 
+
+Fake News
 ![Uploading 2f5262f7-801d-4293-824c-13c29fb97fed.jpg…]()
 
 Not a Fake News
